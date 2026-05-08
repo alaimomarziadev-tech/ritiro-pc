@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Icona ritiro PC">
+  <rect width="32" height="32" rx="8" fill="#022c22"/>
+  <path d="M8 12h16v8H8v-8zm2 2v4h12v-4H10z" fill="#d1fae5"/>
+  <circle cx="16" cy="22" r="1.5" fill="#6ee7b7"/>
+</svg>
